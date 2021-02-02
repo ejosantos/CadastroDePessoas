@@ -1,0 +1,12 @@
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/bin/Debug/net5.0/CadastroDePessoa.Dominio.deps.json
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/bin/Debug/net5.0/CadastroDePessoa.Dominio.dll
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/bin/Debug/net5.0/ref/CadastroDePessoa.Dominio.dll
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/bin/Debug/net5.0/CadastroDePessoa.Dominio.pdb
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.csprojAssemblyReference.cache
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.AssemblyInfoInputs.cache
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.AssemblyInfo.cs
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.csproj.CoreCompileInputs.cache
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.dll
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/ref/CadastroDePessoa.Dominio.dll
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Dominio/obj/Debug/net5.0/CadastroDePessoa.Dominio.pdb

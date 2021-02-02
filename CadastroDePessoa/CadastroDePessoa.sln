@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.808.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDePessoa.Api", "CadastroDePessoa.Api\CadastroDePessoa.Api.csproj", "{5AEBB3C9-71BA-45C8-A99B-A8B5485CF0A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDePessoa.Dominio", "CadastroDePessoa.Dominio\CadastroDePessoa.Dominio.csproj", "{98D36CEC-B16E-4B58-89DD-E07AC785E950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDePessoa.Infra", "CadastroDePessoa.Infra\CadastroDePessoa.Infra.csproj", "{3F649214-65E5-4370-94DA-D3802D0851EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5AEBB3C9-71BA-45C8-A99B-A8B5485CF0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEBB3C9-71BA-45C8-A99B-A8B5485CF0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEBB3C9-71BA-45C8-A99B-A8B5485CF0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D36CEC-B16E-4B58-89DD-E07AC785E950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D36CEC-B16E-4B58-89DD-E07AC785E950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D36CEC-B16E-4B58-89DD-E07AC785E950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D36CEC-B16E-4B58-89DD-E07AC785E950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F649214-65E5-4370-94DA-D3802D0851EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F649214-65E5-4370-94DA-D3802D0851EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F649214-65E5-4370-94DA-D3802D0851EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F649214-65E5-4370-94DA-D3802D0851EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
