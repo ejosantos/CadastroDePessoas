@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{5AEBB3C9-71BA-45C8-A99B-A8B5485CF0A3}|Default">
   <MonoDevelop.Ide.ItemProperties.CadastroDePessoa.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CadastroDePessoa.Api/ProfileMap/MappingProfile.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CadastroDePessoa.Api/Controllers/PessoaController.cs">
     <Files>
       <File FileName="CadastroDePessoa.Dominio/Entidades/Pessoa.cs" Line="12" Column="73" />
       <File FileName="CadastroDePessoa.Dominio/Servicos/ServicoGenericoCrud.cs" Line="24" Column="45" />
       <File FileName="CadastroDePessoa.Dominio/Repositorios/IUnitOfWork.cs" Line="12" Column="1" />
-      <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioGenericoCrud.cs" Line="28" Column="40" />
+      <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioGenericoCrud.cs" Line="23" Column="46" />
       <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioContext.cs" Line="16" Column="13" />
       <File FileName="CadastroDePessoa.Infra/Repositorio/UnitOfWork.cs" Line="29" Column="1" />
-      <File FileName="CadastroDePessoa.Api/Controllers/CrudGenericoController.cs" Line="15" Column="6" />
+      <File FileName="CadastroDePessoa.Api/Controllers/CrudGenericoController.cs" Line="22" Column="69" />
       <File FileName="CadastroDePessoa.Api/Startup.cs" Line="37" Column="50" />
-      <File FileName="CadastroDePessoa.Api/Controllers/PessoaController.cs" Line="19" Column="61" />
+      <File FileName="CadastroDePessoa.Api/Controllers/PessoaController.cs" Line="15" Column="7" />
       <File FileName="CadastroDePessoa.Api/ViewModels/PessoaVM.cs" Line="15" Column="1" />
       <File FileName="CadastroDePessoa.Infra/Configurations/PessoaConfiguration.cs" Line="17" Column="1" />
-      <File FileName="CadastroDePessoa.Api/Profile/MappingProfile.cs" Line="16" Column="43" />
+      <File FileName="CadastroDePessoa.Api/Profile/MappingProfile.cs" Line="13" Column="41" />
       <File FileName="CadastroDePessoa.Dominio/Servicos/IServicoCrud.cs" Line="14" Column="36" />
       <File FileName="CadastroDePessoa.Api/ViewModels/EnderecoVM.cs" Line="3" Column="18" />
       <File FileName="CadastroDePessoa.Api/ViewModels/DependenteVM.cs" Line="3" Column="18" />
@@ -23,10 +23,10 @@
         <State name="__root__">
           <Node name="CadastroDePessoa" expanded="True">
             <Node name="CadastroDePessoa.Api" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="ProfileMap" expanded="True">
-                <Node name="MappingProfile.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PessoaController.cs" selected="True" />
               </Node>
+              <Node name="ProfileMap" expanded="True" />
               <Node name="ViewModels" expanded="True" />
             </Node>
             <Node name="CadastroDePessoa.Dominio" expanded="True">
