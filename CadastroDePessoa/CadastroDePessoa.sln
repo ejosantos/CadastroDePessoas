@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDePessoa.Dominio", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDePessoa.Infra", "CadastroDePessoa.Infra\CadastroDePessoa.Infra.csproj", "{3F649214-65E5-4370-94DA-D3802D0851EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPessoa.Web", "CadastroPessoa.Web\CadastroPessoa.Web.csproj", "{2988E67F-E518-4DAB-9023-A4B25B02C620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3F649214-65E5-4370-94DA-D3802D0851EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F649214-65E5-4370-94DA-D3802D0851EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F649214-65E5-4370-94DA-D3802D0851EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2988E67F-E518-4DAB-9023-A4B25B02C620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2988E67F-E518-4DAB-9023-A4B25B02C620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2988E67F-E518-4DAB-9023-A4B25B02C620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2988E67F-E518-4DAB-9023-A4B25B02C620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

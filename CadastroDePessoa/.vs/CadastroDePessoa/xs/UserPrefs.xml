@@ -1,42 +1,36 @@
-﻿<Properties StartupConfiguration="{5AEBB3C9-71BA-45C8-A99B-A8B5485CF0A3}|Default">
+﻿<Properties StartupConfiguration="{2988E67F-E518-4DAB-9023-A4B25B02C620}|Default">
   <MonoDevelop.Ide.ItemProperties.CadastroDePessoa.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.CadastroPessoa.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CadastroDePessoa.Api/Controllers/PessoaController.cs">
     <Files>
       <File FileName="CadastroDePessoa.Dominio/Entidades/Pessoa.cs" Line="12" Column="73" />
-      <File FileName="CadastroDePessoa.Dominio/Servicos/ServicoGenericoCrud.cs" Line="24" Column="45" />
-      <File FileName="CadastroDePessoa.Dominio/Repositorios/IUnitOfWork.cs" Line="12" Column="1" />
-      <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioGenericoCrud.cs" Line="23" Column="46" />
-      <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioContext.cs" Line="16" Column="13" />
-      <File FileName="CadastroDePessoa.Infra/Repositorio/UnitOfWork.cs" Line="29" Column="1" />
-      <File FileName="CadastroDePessoa.Api/Controllers/CrudGenericoController.cs" Line="22" Column="69" />
-      <File FileName="CadastroDePessoa.Api/Startup.cs" Line="37" Column="50" />
-      <File FileName="CadastroDePessoa.Api/Controllers/PessoaController.cs" Line="15" Column="7" />
-      <File FileName="CadastroDePessoa.Api/ViewModels/PessoaVM.cs" Line="15" Column="1" />
-      <File FileName="CadastroDePessoa.Infra/Configurations/PessoaConfiguration.cs" Line="17" Column="1" />
-      <File FileName="CadastroDePessoa.Api/Profile/MappingProfile.cs" Line="13" Column="41" />
-      <File FileName="CadastroDePessoa.Dominio/Servicos/IServicoCrud.cs" Line="14" Column="36" />
-      <File FileName="CadastroDePessoa.Api/ViewModels/EnderecoVM.cs" Line="3" Column="18" />
-      <File FileName="CadastroDePessoa.Api/ViewModels/DependenteVM.cs" Line="3" Column="18" />
+      <File FileName="CadastroDePessoa.Dominio/Servicos/ServicoGenericoCrud.cs" />
+      <File FileName="CadastroDePessoa.Dominio/Repositorios/IUnitOfWork.cs" />
+      <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioGenericoCrud.cs" />
+      <File FileName="CadastroDePessoa.Infra/Repositorio/RepositorioContext.cs" />
+      <File FileName="CadastroDePessoa.Infra/Repositorio/UnitOfWork.cs" />
+      <File FileName="CadastroDePessoa.Api/Controllers/CrudGenericoController.cs" />
+      <File FileName="CadastroDePessoa.Api/Startup.cs" />
+      <File FileName="CadastroDePessoa.Api/Controllers/PessoaController.cs" Line="14" Column="2" />
+      <File FileName="CadastroDePessoa.Api/ViewModels/PessoaVM.cs" />
+      <File FileName="CadastroDePessoa.Infra/Configurations/PessoaConfiguration.cs" />
+      <File FileName="CadastroDePessoa.Dominio/Servicos/IServicoCrud.cs" />
+      <File FileName="CadastroDePessoa.Api/ViewModels/EnderecoVM.cs" />
+      <File FileName="CadastroDePessoa.Api/ViewModels/DependenteVM.cs" />
+      <File FileName="CadastroDePessoa.Api/appsettings.json" />
+      <File FileName="CadastroDePessoa.Api/ProfileMap/MappingProfile.cs" />
+      <File FileName="CadastroDePessoa.Api/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CadastroDePessoa" expanded="True">
-            <Node name="CadastroDePessoa.Api" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="PessoaController.cs" selected="True" />
+            <Node name="CadastroPessoa.Web" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True" />
+                </Node>
               </Node>
-              <Node name="ProfileMap" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-            </Node>
-            <Node name="CadastroDePessoa.Dominio" expanded="True">
-              <Node name="Entidades" expanded="True" />
-              <Node name="Repositorios" expanded="True" />
-              <Node name="Servicos" expanded="True" />
-            </Node>
-            <Node name="CadastroDePessoa.Infra" expanded="True">
-              <Node name="Configurations" expanded="True" />
-              <Node name="Repositorio" expanded="True" />
             </Node>
           </Node>
         </State>

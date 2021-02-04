@@ -1,10 +1,3 @@
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.csprojAssemblyReference.cache
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.GeneratedMSBuildEditorConfig.editorconfig
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.AssemblyInfoInputs.cache
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.AssemblyInfo.cs
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.csproj.CoreCompileInputs.cache
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.MvcApplicationPartsAssemblyInfo.cs
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.MvcApplicationPartsAssemblyInfo.cache
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/appsettings.Development.json
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/appsettings.json
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/CadastroDePessoa.Api.deps.json
@@ -15,6 +8,7 @@
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/CadastroDePessoa.Api.pdb
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/AutoMapper.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Castle.Core.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/FluentValidation.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
@@ -26,6 +20,7 @@
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Proxies.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
@@ -64,6 +59,13 @@
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/CadastroDePessoa.Infra.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/CadastroDePessoa.Dominio.pdb
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/CadastroDePessoa.Infra.pdb
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.csprojAssemblyReference.cache
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.AssemblyInfoInputs.cache
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.AssemblyInfo.cs
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.csproj.CoreCompileInputs.cache
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.MvcApplicationPartsAssemblyInfo.cache
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/staticwebassets/CadastroDePessoa.Api.StaticWebAssets.Manifest.cache
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/staticwebassets/CadastroDePessoa.Api.StaticWebAssets.xml
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/scopedcss/bundle/CadastroDePessoa.Api.styles.css
@@ -73,5 +75,3 @@
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/ref/CadastroDePessoa.Api.dll
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.pdb
 /Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/obj/Debug/net5.0/CadastroDePessoa.Api.genruntimeconfig.cache
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Castle.Core.dll
-/Users/edsonjosedossantos/Projetos/Estudos/CadastroDePessoas/CadastroDePessoa/CadastroDePessoa.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Proxies.dll

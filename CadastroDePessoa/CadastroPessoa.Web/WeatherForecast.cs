@@ -1,6 +1,6 @@
 using System;
 
-namespace CadastroDePessoa.Api
+namespace CadastroPessoa.Web
 {
     public class WeatherForecast
     {
